@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provisions Azure networking resources using Terraform.
+This project provisions Azure networking resources using Terraform. 
 
 ### Resources Created
 
