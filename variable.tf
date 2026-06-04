@@ -1,3 +1,3 @@
-variable "var_subnet" {}
+variable "var_subnet" { }
 
   
